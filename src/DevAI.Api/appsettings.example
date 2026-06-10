@@ -7,11 +7,10 @@
   },
   "AllowedHosts": "*",
   "AzureOpenAI": {
-    "Endpoint": "https://sematic-demo.openai.azure.com/",
-    "ApiKey": "7exAhKPcc4YxJJhSs8VDgFJu5tEyyVy6mffmVxCJuVIpGgXhoexjJQQJ99CFACYeBjFXJ3w3AAABACOGdWFQ",
-    "ChatDeployment": "gpt-4.1-demo",
-    "EmbeddingDeployment": "text-embedding-3-small"
-
+    "Endpoint": "https://your-resource-name.openai.azure.com/",
+    "ApiKey": "<YOUR_AZURE_OPENAI_API_KEY>",
+    "ChatDeployment": "your-chat-deployment",
+    "EmbeddingDeployment": "your-embedding-deployment"
   }
 
 }
