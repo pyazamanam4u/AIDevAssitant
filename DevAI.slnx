@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/DevAI.Agents/DevAI.Agents.csproj" />
+    <Project Path="src/DevAI.Api/DevAI.Api.csproj" />
+    <Project Path="src/DevAI.Application/DevAI.Application.csproj" />
+    <Project Path="src/DevAI.Domain/DevAI.Domain.csproj" />
+    <Project Path="src/DevAI.Infrastructure/DevAI.Infrastructure.csproj" />
+    <Project Path="src/DevAI.Memory/DevAI.Memory.csproj" />
+    <Project Path="src/DevAI.Plugins/DevAI.Plugins.csproj" />
+    <Project Path="src/DevAI.SemanticKernel/DevAI.SemanticKernel.csproj" />
+    <Project Path="src/DevAI.Shared/DevAI.Shared.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/DevAI.IntegrationTests/DevAI.IntegrationTests.csproj" />
+    <Project Path="tests/DevAI.UnitTests/DevAI.UnitTests.csproj" />
+  </Folder>
+</Solution>

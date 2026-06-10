@@ -1,0 +1,17 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "AzureOpenAI": {
+    "Endpoint": "https://sematic-demo.openai.azure.com/",
+    "ApiKey": "7exAhKPcc4YxJJhSs8VDgFJu5tEyyVy6mffmVxCJuVIpGgXhoexjJQQJ99CFACYeBjFXJ3w3AAABACOGdWFQ",
+    "ChatDeployment": "gpt-4.1-demo",
+    "EmbeddingDeployment": "text-embedding-3-small"
+
+  }
+
+}
